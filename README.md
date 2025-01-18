@@ -1,4 +1,4 @@
-# Power-BI-projects
+# Custpomer Churn Analysis
 This project focuses on analyzing customer churn using Power BI to provide actionable insights for businesses. The goal is to identify patterns and key factors that contribute to customers leaving a service or product, allowing companies to develop strategies to improve customer retention.
 This project includes the following key steps:
 - **Data Collection and Preparation**: Gathering customer data, including demographic information, usage patterns, and historical churn data.
